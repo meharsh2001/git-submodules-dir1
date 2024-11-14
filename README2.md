@@ -1,1 +1,1 @@
-second file in dir1
+second file in git-submodules-dir1

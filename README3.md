@@ -1,1 +1,1 @@
-third file in dir1
+third file in git-submodules-dir1

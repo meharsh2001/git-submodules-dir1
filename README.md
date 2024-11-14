@@ -1,1 +1,1 @@
-first file in dir1
+first file in git-submodules-dir1
